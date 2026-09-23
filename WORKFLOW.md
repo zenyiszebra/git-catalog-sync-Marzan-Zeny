@@ -2,13 +2,13 @@
 
 ## Screenshots
 
-![Task 1](screenshots/task1.png)
-![Task 2](screenshots/task2.png)
-![Task 3](screenshots/task3.png)
-![Task 4](screenshots/task4.png)
-![Task 5](screenshots/task5.png)
-![Task 6](screenshots/task6.png)
-![Task 7](screenshots/task7.png)
+![Task 1](screenshots/task1.jpg)
+![Task 2](screenshots/task2.jpg)
+![Task 3](screenshots/task3.jpg)
+![Task 4](screenshots/task4.jpg)
+![Task 5](screenshots/task5.jpg)
+![Task 6](screenshots/task6.jpg)
+![Task 7](screenshots/task7.jpg)
 
 ## Written Answers
 
